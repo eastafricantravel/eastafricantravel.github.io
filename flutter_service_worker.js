@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "112086e5ca6c3c2958851ee459553f53",
-"assets/AssetManifest.bin.json": "05d7f742746632314950a078edb4cb25",
-"assets/AssetManifest.json": "6f2797d6de7e7dc6fcbbb679407c8a47",
+const RESOURCES = {"assets/AssetManifest.bin": "8d95eba862222eaeea3e3cf9427ab551",
+"assets/AssetManifest.bin.json": "2ad5e05d297b0239442e347ce496ea0f",
+"assets/AssetManifest.json": "90c5fe5ba2efd1aca57d84fbb678e5e6",
 "assets/assets/icons/133390-hotel-pop-up.json": "ba41581ed25a84def61a53402dda9531",
 "assets/assets/icons/135803-loader.json": "dfb57876a80c3855e7b8ff574e01f532",
 "assets/assets/icons/136491-animation-lottie-car-rides.json": "c7be1f7cd21460d83e7af61b45c23294",
@@ -115,11 +115,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "112086e5ca6c3c2958851ee459553f53
 "assets/assets/images/users.sql": "202233b94215bf423f275b0636739a5a",
 "assets/assets/images/venice.jpg": "10346f88226e7c8892e95033ba5430c0",
 "assets/assets/images/weather.jpg": "34c99d44d0d44f25cbc4155456a3ab1f",
-"assets/assets/models/labels.txt": "fb75fef7630cb1a18a8c0e874f7f0035",
-"assets/assets/models/model_unquant.tflite": "c86b1404738e2890ccae54c3affffef5",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "078315e3be70404a028ca48ba1ed2416",
-"assets/NOTICES": "f1036276bc265e4a2ed5ad91d2fe5103",
+"assets/fonts/MaterialIcons-Regular.otf": "6f271e80b610d851eea5538c4153bb7d",
+"assets/NOTICES": "5dbe71727c0b74b5dadd3450617c1dd1",
 "assets/packages/awesome_snackbar_content/assets/back.svg": "ba1c3aebba280f23f5509bd42dab958d",
 "assets/packages/awesome_snackbar_content/assets/bubbles.svg": "1df6817bf509ee4e615fe821bc6dabd9",
 "assets/packages/awesome_snackbar_content/assets/types/failure.svg": "cb9e759ee55687836e9c1f20480dd9c8",
@@ -148,11 +146,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "112086e5ca6c3c2958851ee459553f53
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "394592fed8b11c8107b8d9a45c34d78e",
-"/": "394592fed8b11c8107b8d9a45c34d78e",
+"index.html": "1b8dc1734a4630c019cce25392ed4933",
+"/": "1b8dc1734a4630c019cce25392ed4933",
 "launch.json": "4b4249ebfcd88d88933bc073a42506d1",
 "main.dart": "d41d8cd98f00b204e9800998ecf8427e",
-"main.dart.js": "95c92db9820d786ca9303807045359a3",
+"main.dart.js": "bc2f50d2d9b461ef3e6c05b6578291f6",
 "manifest.json": "bb363767d573f2251b12b8d33d6a5aab",
 "version.json": "3da8501ccd11e3be09cf4c27f572d8bf"};
 // The application shell files that are downloaded before a service worker can
