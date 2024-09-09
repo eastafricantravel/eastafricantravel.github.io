@@ -116,7 +116,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "8d95eba862222eaeea3e3cf9427ab551
 "assets/assets/images/venice.jpg": "10346f88226e7c8892e95033ba5430c0",
 "assets/assets/images/weather.jpg": "34c99d44d0d44f25cbc4155456a3ab1f",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "67fea10ffe543be28ab2d926ee84dfc6",
+"assets/fonts/MaterialIcons-Regular.otf": "b7b93a04580f9ce5d547dd8361986797",
 "assets/NOTICES": "5dbe71727c0b74b5dadd3450617c1dd1",
 "assets/packages/awesome_snackbar_content/assets/back.svg": "ba1c3aebba280f23f5509bd42dab958d",
 "assets/packages/awesome_snackbar_content/assets/bubbles.svg": "1df6817bf509ee4e615fe821bc6dabd9",
@@ -146,11 +146,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "8d95eba862222eaeea3e3cf9427ab551
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a7a076f552c3b5586a01049090086db4",
-"/": "a7a076f552c3b5586a01049090086db4",
+"index.html": "ef05ad04f9b5abed86b431ca7aa1a09c",
+"/": "ef05ad04f9b5abed86b431ca7aa1a09c",
 "launch.json": "4b4249ebfcd88d88933bc073a42506d1",
 "main.dart": "d41d8cd98f00b204e9800998ecf8427e",
-"main.dart.js": "2b42ba3f7152256a434515d96d7e3eb8",
+"main.dart.js": "4ae0961bf38588f2580e1f264ca7685f",
 "manifest.json": "bb363767d573f2251b12b8d33d6a5aab",
 "version.json": "3da8501ccd11e3be09cf4c27f572d8bf"};
 // The application shell files that are downloaded before a service worker can
