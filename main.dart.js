@@ -66245,7 +66245,7 @@ case 2:p=$.d
 o=(p==null?$.d=$.x():p).v(0,"[DEFAULT]")
 A.q(o,$.W(),!0)
 p=A.N(new A.w(o))
-p=A.H(p,p.gB().D("destinationsbookings"))
+p=A.H(p,p.gB().D("placesbookings"))
 n=q.a.c
 n=A.r(n.b.q(0,"name"),n.a)
 m=q.e
@@ -66702,7 +66702,6 @@ o=A.r(a0.q(0,"address"),q)
 n=A.r(a0.q(0,"imageurl"),q)
 m=A.r(a0.q(0,b),q)
 l=A.r(a0.q(0,"kes"),q)
-A.r(a0.q(0,"usd"),q)
 r=$.d
 k=(r==null?$.d=$.x():r).v(0,a)
 r=$.W()
